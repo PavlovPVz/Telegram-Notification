@@ -1,0 +1,13 @@
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.exe
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.deps.json
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.runtimeconfig.json
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.runtimeconfig.dev.json
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.dll
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\bin\Debug\netcoreapp3.1\Telegram_notification.pdb
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.csprojAssemblyReference.cache
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.AssemblyInfoInputs.cache
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.AssemblyInfo.cs
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.csproj.CoreCompileInputs.cache
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.dll
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.pdb
+C:\Users\Дубина\source\repos\Telegram Notify\Telegram_notification\obj\Debug\netcoreapp3.1\Telegram_notification.genruntimeconfig.cache
