@@ -1,8 +1,5 @@
 ## Telegram-Notification
 # RU:
- Уведомление в Телеграм при открытии программы.
- Вы можете использовать это в своем проекте.
+ Уведомление в Телеграм при открытии программы. <br /> Вы можете использовать это в своем проекте.
 # ENG:
- Telegram notification when opening the program.
- You can use this in your project.
-![alt text](kwXZ275GC9k.jpg)
+ Telegram notification when opening the program. <br /> You can use this in your project. <br /> ![alt text](kwXZ275GC9k.jpg)
